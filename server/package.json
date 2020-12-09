@@ -1,0 +1,24 @@
+{
+  "name": "mern-crud-hotel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharma12gaurav/MERN-CRUD-Hotel.git"
+  },
+  "keywords": [
+    "MERN",
+    "CRUD",
+    "MERN"
+  ],
+  "author": "Gaurav Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharma12gaurav/MERN-CRUD-Hotel/issues"
+  },
+  "homepage": "https://github.com/sharma12gaurav/MERN-CRUD-Hotel#readme"
+}
