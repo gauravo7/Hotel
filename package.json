@@ -2,10 +2,10 @@
   "name": "mern-hotel",
   "version": "1.0.0",
   "description": "",
-  "main": "nodemon server/index.js",
+  "main": "node server/index.js",
   "scripts": {
     "test": "npm test",
-    "start": "nodemon server/index.js"
+    "start": "node server/index.js"
   },
   "author": "Balwant",
   "license": "ISC",
